@@ -1,0 +1,16 @@
+
+
+Welcome to my world.. 
+I am new to GitHub.. learning a new stuff...
+
+My skills are - 
+ -- HTML
+ -- CSS
+ -- Javascript
+ -- Python
+ -- Sqlite
+ -- NodeJS
+ -- ExpressJS
+ -- ReactJS
+ -- Bootstrap
+ -- Typescript
