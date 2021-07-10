@@ -14,3 +14,12 @@ My skills are -
  -- ReactJS
  -- Bootstrap
  -- Typescript
+
+And want to add some more skills -
+ -- MongoDB
+ -- Git
+ -- Docker
+ -- Data Structures and Algorithms
+ -- Django
+ 
+ 
